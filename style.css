@@ -1,5 +1,13 @@
-main { margin: 0 auto; }
-.personal-photo { border: 3px solid #a73d5d; }
+main { 
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+.personal-photo { 
+    float: right;
+    margin-right: 110px;
+    border: 3px solid #a73d5d;
+ }
 h1 {
     text-align: center;
     font: bold 24px Times New Roman, serif;
