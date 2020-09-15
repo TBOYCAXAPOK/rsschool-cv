@@ -1,0 +1,11 @@
+.personal-photo { border: 3px solid #a73d5d; }
+h1 {
+    text-align: center;
+    font: bold 24px Times New Roman, serif;
+    background-color: #faccd6;
+    color: #b5838d;
+}
+h2 {
+    font: bold 20px Times New Roman, serif;
+    color: #e5989b;
+}
