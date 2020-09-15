@@ -9,3 +9,15 @@ h2 {
     font: bold 20px Times New Roman, serif;
     color: #e5989b;
 }
+p {
+    font: 16px Verdana, sans-serif;
+    color: #a73d5d;
+}
+a {
+    text-decoration: none;
+    color: #860202;
+}
+section {
+    padding: 15px 20px;
+    margin: 5px;
+}
