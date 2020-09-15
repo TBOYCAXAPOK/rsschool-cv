@@ -17,7 +17,15 @@ a {
     text-decoration: none;
     color: #860202;
 }
+ul { 
+    font: 16px Verdana, sans-serif;
+    color: #a73d5d; 
+}
 section {
     padding: 15px 20px;
     margin: 5px;
+}
+footer {
+    font: 26px Times New Roman, serif;
+    color: #e5989b;
 }
